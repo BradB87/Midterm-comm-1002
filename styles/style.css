@@ -19,28 +19,15 @@ body>nav li {
     padding: 2em;
 }
 
-    
-
-
-main>p {
-    
-    display: flex;
-    
-    
-}
-
-
-
-aside>h2{
-    font-size: 2em;
-    
+h2 {
+    background-color: gray;
+    align-items: left;
+    justify-content: left;
     
 
 }
 
+img {
+    padding: 2em;
 
-
-aside,p{
-    text-align: left;
-    
 }
