@@ -1,18 +1,46 @@
 @import url('./layout.css');
-nav>li{
-background-color:;
-justify-content: space-around;
+
+body>nav ul {
+    background-color: darkblue;
+    justify-content: space-around;
+    display: flex;
+
+
 }
-nav>a{
+
+body>nav a {
     color: white;
 
 }
 
+body>nav li {
+    justify-content: space-around;
+    display: flex;
+    padding: 2em;
+}
+
+    
 
 
-main{
+main>p {
+    
+    display: flex;
+    
+    
+}
+
+
+
+aside>h2{
+    font-size: 2em;
+    
+    
 
 }
-aside{
 
+
+
+aside,p{
+    text-align: left;
+    
 }
